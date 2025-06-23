@@ -4,7 +4,7 @@
 *Interregional Stage - Professional Category*
 
 ## Project Overview
-This repository contains the second module implementation for the Web Technologies championship in the "Professional" category. The solution demonstrates advanced web development skills, following modern best practices and competition requirements.
+This repository contains the second module implementation for the "Professional" championship in the "Web-Tecnologies"  category. The solution demonstrates advanced web development skills, following modern best practices and competition requirements.
 
 ## Prerequisites
 Before getting started, ensure you have the following installed:
